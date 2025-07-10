@@ -1,30 +1,52 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+# 👥 Organo
 
-# Organo
+Aplicação desenvolvida durante o curso [React: desenvolvendo com JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript) da Alura.  
+O projeto simula um sistema de times para organização de colaboradores e foi **refatorado de JSX para TypeScript (TSX)**.
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
+![Douglas Avatar](https://github.com/Landim013.png?size=100)
 
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
+---
 
+## 📸 Preview
 
-## 🔨 Funcionalidades do projeto
+![Imagem do Organo](screencapture.png)
 
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+---
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
-Se liga nessa lista de tudo que usaremos nessa formação:
+- React
+- React Hooks
+- TypeScript
+- CSS Modules
+- JSX → TSX Migration
 
-- `React`
-- `React Hooks`
-- `TypeScript`
+---
 
-E muito mais!
+## ✨ Funcionalidades
 
-## 🛠️ Abrir e rodar o projeto
+- 📋 Cadastro de colaboradores com nome, cargo e imagem
+- 🧠 Organização em cards por times
+- 🎨 Personalização de cores de cada time
+- 🧼 Código tipado com TypeScript para mais segurança
 
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
+---
 
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
+## 📐 Design original
 
+Você pode conferir a arte conceitual do projeto no [Figma oficial do curso](https://cursos.alura.com.br/course/react-desenvolvendo-javascript).
+
+---
+
+## ⚙️ Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/Landim013/Organo.git
+cd Organo
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm start
